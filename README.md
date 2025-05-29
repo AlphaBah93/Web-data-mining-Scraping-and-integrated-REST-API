@@ -1,14 +1,14 @@
-# Analyse de données sportives et sanitaires via Web Scraping & API REST
+# Sports and health data analysis via Web Scraping & API REST
 
-📝 Description :
-Ce projet met en œuvre une double approche d’extraction de données à partir d’une API REST et de web scraping, afin de collecter, analyser et présenter des informations pertinentes dans deux domaines distincts : le sport et la santé mondiale.
+📝 Description:
+This project implements a dual approach of data extraction from a REST API and web scraping, in order to collect, analyze and present relevant information in two distinct fields: sports and global health.
 
-🏀 API REST – nba_api : Utilisation de la bibliothèque nba_api pour accéder aux données statistiques des joueurs de NBA (scores, performances, équipes). Les données récupérées sont filtrées et analysées avec pandas.
+🏀 REST API - nba_api: Use of the nba_api library to access statistical data on NBA players (scores, performances, teams). The retrieved data is filtered and analyzed with pandas.
 
-🌍 Web Scraping – worldometers.info : Extraction automatisée des tableaux de données COVID-19 sur worldometers.info à l’aide de BeautifulSoup et du parser html.parser.
+🌍 Web Scraping - worldometers.info: Automated extraction of COVID-19 data tables on worldometers.info using BeautifulSoup and the html.parser.
 
-🔧 Traitement et analyse : Nettoyage, transformation et visualisation des données pour en tirer des indicateurs clés.
+🔧 Processing and analysis: Cleaning, transformation and visualization of data to derive key indicators.
 
-💻 Technologies utilisées : Python, nba_api, Requests, BeautifulSoup, Pandas, VS Code.
+💻 Technologies used: Python, nba_api, Requests, BeautifulSoup, Pandas, VS Code.
 
-Ce projet illustre ma capacité à combiner des sources de données variées (API et web) pour produire des analyses exploitables et fiables.
+This project illustrates my ability to combine various data sources (API and web) to produce usable and reliable analyses.
